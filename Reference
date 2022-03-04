@@ -1,0 +1,27 @@
+1. Unit Testing -- If Particular Unit is Working or not.
+2. Integration Testing -- End to End Testing.
+
+Test Scenario
+Test Case
+Test Suite
+
+gmail application
+1. testing login functionality --Test Scenario
+-----------------------------------------------
+1. valid username and valid password  -Test Case1
+2. valid username and invalid password -Test case2
+3. invalid username and valid password - Test case3
+4. invalid username and invalid password
+5. empty username and empty password
+
+All Test cases Together is Called Test Suite.
+module name : unittest
+classname   : TestCase
+instance methods:
+1. setUp()     --
+2. test()      -- Implementing testing
+3. tearDown()  -- Clear the test
+
+
+class TestCaseDemo(TestCase):
+
