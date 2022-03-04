@@ -25,3 +25,7 @@ instance methods:
 
 class TestCaseDemo(TestCase):
 
+
+Automation testing:
+Selenium, QTP, Load Runner
+
